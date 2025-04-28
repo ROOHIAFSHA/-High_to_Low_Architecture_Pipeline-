@@ -1,4 +1,5 @@
-# Requirement to Specification Tool
+## High-Level to Low-Level Architecture Pipeline
+
 
 ## Overview
 This is a simple prototype tool that automates the conversion of high-level business requirements into low-level technical specifications. It breaks down the input requirement into modules, data schemas, and pseudocode for each module.
@@ -59,5 +60,4 @@ AccountModule:
 - It works best with simple, keyword-rich requirements.
 - Intended as a starting point for further development.
 
-## License
-MIT License
+
